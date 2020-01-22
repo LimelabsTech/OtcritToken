@@ -16,7 +16,7 @@
     "bignumber.js": "4.0.2",
     "bluebird": "^3.5.1",
     "js-yaml": "^3.10.0",
-    "knex": "^0.14.2",
+    "knex": "^0.14.3",
     "lodash": "^4.17.4",
     "merge-stream": "^1.0.1",
     "moment": "^2.20.1",
