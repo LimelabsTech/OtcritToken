@@ -1782,6 +1782,11 @@ lodash@^4.14.0, lodash@^4.17.4, lodash@^4.6.0:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
+lodash@^4.17.20:
+  version "4.17.20"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
+  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
+
 longest@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/longest/-/longest-1.0.1.tgz#30a0b2da38f73770e8294a0d22e6625ed77d0097"
@@ -3010,9 +3015,9 @@ watchpack@^1.4.0:
     chokidar "^1.7.0"
     graceful-fs "^4.1.2"
 
-"web3-typed@https://github.com/cashila/web3-typed":
+"web3-typed@https://github.com/Softmotions/web3-typed.git":
   version "0.17.0-beta"
-  resolved "https://github.com/cashila/web3-typed#fcdff55f5464711937b1b328b01fe36d5c6735c7"
+  resolved "https://github.com/Softmotions/web3-typed.git#2305ebd0adedfe218ea24fc069798f6115a70d03"
   dependencies:
     "@types/bignumber.js" "^4.0.2"
 
