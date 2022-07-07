@@ -19,7 +19,7 @@
     "knex": "^0.14.2",
     "lodash": "^4.17.4",
     "merge-stream": "^1.0.1",
-    "moment": "^2.20.1",
+    "moment": "^2.29.4",
     "request": "^2.83.0",
     "truffle-contract": "^3.0.1",
     "tslib": "^1.8.1",
