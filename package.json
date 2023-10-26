@@ -21,9 +21,9 @@
     "merge-stream": "^1.0.1",
     "moment": "^2.20.1",
     "request": "^2.83.0",
-    "truffle-contract": "^3.0.1",
+    "truffle-contract": "^3.0.4",
     "tslib": "^1.8.1",
-    "web3": "0.20.3"
+    "web3": "1.2.0"
   },
   "devDependencies": {
     "@types/bignumber.js": "4.0.2",
