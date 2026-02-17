@@ -11,7 +11,7 @@
     "test": "npm run build && node run-tests.js"
   },
   "dependencies": {
-    "ajv": "^6.0.0",
+    "ajv": "^8.18.0",
     "bigi": "^1.4.2",
     "bignumber.js": "4.0.2",
     "bluebird": "^3.5.1",
@@ -21,7 +21,7 @@
     "merge-stream": "^1.0.1",
     "moment": "^2.20.1",
     "request": "^2.83.0",
-    "truffle-contract": "^3.0.1",
+    "truffle-contract": "^4.0.31",
     "tslib": "^1.8.1",
     "web3": "0.20.3"
   },
